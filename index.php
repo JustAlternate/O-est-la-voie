@@ -54,11 +54,10 @@ if (isset($_FILES["file"])){
       echo "<p style='color: green;'>Le fichier : ". htmlspecialchars(basename($_FILES["file"]["name"])). " a bien été envoyée !</p>"; //message succes
       $color1 = $_POST['color_picker'];
       $intensity = $_POST['range'];
-      exec("rm images_processed/".htmlspecialchars(basename($_FILES["file"]["name"]))." -f");
+
       exec("python3 wall_recognition2.py ".htmlspecialchars(basename($_FILES["file"]["name"]))." '".$color1."' ".$intensity."");
 
       //sleep(5);
-      exec("rm images_to_process/".htmlspecialchars(basename($_FILES["file"]["name"]))." -f");
       
       // On verifie que tout s'est bien passé puis on tente d'afficher l'image normalement généré : 
       $img = "<img class='final_img' src='images_processed/filtered_".htmlspecialchars(basename($_FILES['file']['name']))."'>";
