@@ -4,7 +4,7 @@ En escalade, les murs sont parsemé de prises de couleur, chaque voie respecte a
 
 Ainsi pour faciliter le travail de reperage du grimpeur et car certaine fois il est difficile de trouver toutes les prises d'une meme couleur, J'ai imaginer un service facile d'acces qui permettrais a n'importe quelle grimpeur de rapidement pouvoir visualiser toutes les prises de la couleur qu'il souhaite.
 
-Ce service s'appelle "Où est la voie" et il prend forme sous l'apparence d'un site web accesible a cette adresse : http://justalternate.pw/wall_holds_recognition/
+Ce service s'appelle "Où est la voie" et il prend forme sous l'apparence d'un site web accesible a cette adresse : http://justalternate.fr/wall_holds_recognition/
 
 ## Comment utiliser Où est la voie ?
 
