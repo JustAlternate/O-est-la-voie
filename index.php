@@ -24,7 +24,7 @@ echo "
 
 		  <div class= 'explication'>
 
-		  <p> 'Où est la voie ?' est un site permettant de mettre en evidence les prises d'une même couleur d'un mur d'escalade.<br><br>
+		  <p> 'Où est la voie ?' estt un site permettant de mettre en evidence les prises d'une même couleur d'un mur d'escalade.<br><br>
 		  Pour commencer, Prenez en photo votre mur d'escalade d'interieur, assurez vous d'avoir une image bien éclairée et nette.<br><br>
 		  Ensuite cliquez sur le bouton 'Selectionnez une photo' puis choisissez l'image dans votre galerie.<br><br>
 		  Enfin choisissez une couleur parmis la liste donnée, puis lorsque tout est prêt, appuyez sur 'Envoyer'</p>
